@@ -4,19 +4,19 @@
 			title: 'Exec',
 			description: 'A code executor api',
 			tech: ['SvelteKit', "Tailwind", 'FastAPI', 'Python'],
-			link: 'https://github.com/ItzCyzmiX/Exec'
+			link: 'https://exec-website.vercel.app/'
 		},
 		{
 			title: 'Drippy', 
 			description: 'An outfit recommendation system, powered by AI',
 			tech: ['SvelteKit', "Tailwind", 'Groq', 'Python'],
-			link: 'https://github.com/ItzCyzmiX/Drippy'
+			link: 'https://drippyy.vercel.app/'
 		},
         {
 			title: 'CADI AYYAD English club website',
 			description: 'A website for the CADI AYYAD English club',
 			tech: ['SvelteKit', "Tailwind"],
-			link: 'https://github.com/ItzCyzmiX/1BAC-SM2-WRITINGS'
+			link: 'https://1bacsm2.vercel.app/'
 		}
 	];
 
