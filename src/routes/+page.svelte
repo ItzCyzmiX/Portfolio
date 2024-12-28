@@ -28,7 +28,9 @@
 	}
 </script>
 
-
+<svelte:head>
+	<title>CyzmiX | Portfolio</title>
+</svelte:head>
 
 <main class="min-h-screen bg-gray-950 text-gray-100 relative overflow-hidden">
     <!-- Background Pattern -->
