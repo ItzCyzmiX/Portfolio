@@ -1,6 +1,6 @@
 # Protfolio
 
 a little portfolio site i made containing:
-> my ambitions
- my best projects
- ways of contact
+1) my ambitions
+2) my best projects
+3) ways of contact
