@@ -13,10 +13,10 @@
 			link: 'https://drippyy.vercel.app/'
 		},
         {
-			title: 'CADI AYYAD English club website',
-			description: 'A website for the CADI AYYAD English club',
-			tech: ['SvelteKit', "Tailwind"],
-			link: 'https://1bacsm2.vercel.app/'
+			title: 'SnipIt',
+			description: 'A website for sharing code snippets',
+			tech: ['SvelteKit', "Tailwind", "Supabase"],
+			link: 'https://snip-itt.vercel.app/'
 		}
 	];
 
